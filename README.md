@@ -26,7 +26,7 @@ Other        4 mins          ▒░░░░░░░░░░░░░░░░
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dawos78&show_icons=true&theme=gotham" alt="dawos78" />
+<p align="center"> <img style="margin-top: 25px" src="https://github-readme-stats.vercel.app/api?username=dawos78&show_icons=true&theme=gotham" alt="dawos78" />
 
 
 
