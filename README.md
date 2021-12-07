@@ -22,12 +22,11 @@ TypeScript   1 hr 15 mins    ███▒░░░░░░░░░░░░░
 Tailwind     56 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
 Other        4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
 ```
+
+
 📈 my github stats
 
-
-
-
-<p align="center"> <img style="margin-top: 10px;" src="https://github-readme-stats.vercel.app/api?username=dawos78&show_icons=true&theme=gotham" alt="dawos78" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dawos78&show_icons=true&theme=gotham" alt="dawos78" />
 
 
 
